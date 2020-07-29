@@ -1,41 +1,3 @@
-.articles-row {
-    display: flex;
-    justify-content: space-between;
-}
-.article {
-    display: flex;
-    flex-direction: column;
-}
-.c{
-top: 276px;
-left: 745px;
-width: 250px;
-height: 250px;
-}
-.articles_r{
-    display: flex;
-    justify-content: space-between;
-}
-.article2{ 
-    display: flex;
-    flex-direction: column;
-}
-.fon{
-  font-size:small ; 
-  font-family: 'Cairo', sans-serif;
-color: #071a01c4;
-}
-.d{
-    text-align: center;
-    font-family: 'Cairo', sans-serif;
-    color:orange
-    ;
-
-}
-
-.h{
-    background-color: #fffae6;
-}
 .main-tape {
     display: flex;
     height: 4rem;
@@ -84,14 +46,44 @@ color: #071a01c4;
     margin-top:35px;
     margin-bottom: 35px;
     color: #B3A36B;
-    font-weight: bold;
-    }
-    .experts {
-    font-family: 'Cairo', sans-serif;
-    text-decoration: unset;
-    font-size:12px;
-    margin-top:35px;
-    margin-bottom: 35px;
-    color: #B3A36B;
-    font-weight: bold;
-    }
+font-weight: bold;
+}
+.experts {
+font-family: 'Cairo', sans-serif;
+text-decoration: unset;
+font-size:12px;
+margin-top:35px;
+margin-bottom: 35px;
+color: #B3A36B;
+font-weight: bold;
+}
+.home {
+    background-color: #fffae6;
+}
+.titie
+{
+text-align: right;
+margin-right: 20px;
+font-family: 'Cairo', sans-serif;
+}
+
+.all-books {
+    display: flex;
+    justify-content: space-between;
+}
+.img {
+    width: 100%;
+    height: 300px;
+}
+.div{
+    background-color: white;
+    top: 350px;
+left: 1052px;
+width: 263px;
+height: 368px;
+}
+.h1{
+    font-family: 'Amiri', serif;
+    text-align: right;
+    font-size: 30px;
+}
