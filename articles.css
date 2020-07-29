@@ -1,0 +1,32 @@
+.articles-row {
+    display: flex;
+    justify-content: space-between;
+}
+.article {
+    display: flex;
+    flex-direction: column;
+}
+.c{
+top: 276px;
+left: 745px;
+width: 250px;
+height: 250px;
+}
+.articles_r{
+    display: flex;
+    justify-content: space-between;
+}
+.article2{ 
+    display: flex;
+    flex-direction: column;
+}
+.fon{
+  font-size:small ; 
+  font-family: 'Cairo', sans-serif;
+
+}
+.d{
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+
+}
